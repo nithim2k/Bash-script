@@ -1,1 +1,6 @@
-# Bash-script
+![Task 4(1)](https://github.com/user-attachments/assets/f0c3fc3d-1138-4cc6-97d2-041500233ab6)
+![Task 4(1) result](https://github.com/user-attachments/assets/df878f9f-afc9-4681-a06c-a9cfb8ea7297)
+![Task 4(2) command](https://github.com/user-attachments/assets/1d2ce21f-1620-4a93-b890-eb1720bbafaa)
+![Task 4(2) txt file before](https://github.com/user-attachments/assets/f9ad15d5-d6cf-484c-8fc3-d80203864103)
+![Task 4(2) sh file](https://github.com/user-attachments/assets/6579767d-da54-4c5e-b68c-6c740e421664)
+![Task 4(2) txt file after Result](https://github.com/user-attachments/assets/c9f11489-8f7d-4238-861c-44f7e6ac4fcf)
